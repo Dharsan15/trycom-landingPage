@@ -1,4 +1,3 @@
-import React from "react";
 import { FaLinkedin } from "react-icons/fa";
 
 const CeoCard = () => {
@@ -58,7 +57,7 @@ const CeoCard = () => {
         </div>
       </div>
 
-      <style jsx>{`
+      <style>{`
         @keyframes border-flow {
           0% {
             transform: translateX(-100%);
