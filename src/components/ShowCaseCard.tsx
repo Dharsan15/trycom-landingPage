@@ -16,7 +16,6 @@ type cardsProp = {
 
 function ShowCasecard({children , id} : ShowCasecardProps)  {
 
-
     const inViewCard = useFeatureStore(state => state.inViewCard)
 
   return (
