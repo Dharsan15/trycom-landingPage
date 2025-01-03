@@ -1,9 +1,7 @@
 /* eslint-disable @typescript-eslint/no-unused-vars */
-import React, { Children } from 'react'
 import img1 from "../assets/feature1.webp"
 import img2 from "../assets/feature3.webp"
 import img3 from "../assets/feature2.webp"
-import showcaseimg from "../assets/macbook.png"
 import classNames from 'classnames'
 import { useFeatureStore } from './store'
 

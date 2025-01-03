@@ -3,8 +3,6 @@ import  { useEffect, useRef } from 'react'
 import { useInView } from "motion/react"
 import { motion } from "motion/react"
 import { useFeatureStore } from './store'
-import { animate } from 'motion'
-// import classNames from 'classnames';
 
 type Props = {
     title : string,
