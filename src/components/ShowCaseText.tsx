@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import React, { useEffect, useRef } from 'react'
 import { useInView } from "motion/react"
 import { motion } from "motion/react"

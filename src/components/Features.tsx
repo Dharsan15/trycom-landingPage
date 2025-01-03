@@ -1,5 +1,4 @@
-import React from 'react'
-import { PiNumberSquareOne, PiNumberSquareOneBold, PiNumberSquareThree, PiNumberSquareThreeBold, PiNumberSquareTwo, PiNumberSquareTwoBold } from "react-icons/pi";
+import {  PiNumberSquareOneBold,  PiNumberSquareThreeBold, PiNumberSquareTwoBold } from "react-icons/pi";
 
 
 
