@@ -20,7 +20,7 @@ function ShowCasecard({children , id} : ShowCasecardProps)  {
     const inViewCard = useFeatureStore(state => state.inViewCard)
 
   return (
-    <div className= {classNames('w-[850px] mx-auto absolute top-20  sm:top-[170px]   sm:left-[50px] transition-opacity overflow-hidden',
+    <div className= {classNames('w-[850px] mx-auto absolute top-20  sm:top-[200px]   sm:left-[50px] transition-opacity overflow-hidden',
         inViewCard == id ? "opacity-100" : "opacity-0"
          
     )
