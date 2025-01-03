@@ -1,3 +1,4 @@
+import React from "react";
 import { FaLinkedin } from "react-icons/fa";
 
 const CeoCard = () => {
@@ -41,9 +42,9 @@ const CeoCard = () => {
               </a>
               <a
                 href="#"
-                className="text-purple-400 hover:text-purple-300 transition-colors duration-300 flex items-center gap-2"
+                className="text-purple-400  border rounded-lg p-3 border-purple-500 hover:text-purple-300 transition-colors duration-300 flex items-center gap-2"
               >
-                <FaLinkedin className="text-xl" />
+                <FaLinkedin className="text-xl " />
                 <span>Connect with me</span>
               </a>
             </div>
