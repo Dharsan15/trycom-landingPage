@@ -1,5 +1,3 @@
-import React from 'react'
-
 function Waitlist() {
   return (
     <div className='bg-gradient-to-b  text-white py-[72px] text-center from-[#5D2CA8] to-black'>

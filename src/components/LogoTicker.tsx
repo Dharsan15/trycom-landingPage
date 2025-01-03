@@ -1,4 +1,3 @@
-import React from 'react'
 import image1 from "../assets/archa.webp"
 import image2 from "../assets/cosc.webp"
 import image3 from "../assets/gbr.webp"

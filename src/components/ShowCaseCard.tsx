@@ -1,4 +1,3 @@
-/* eslint-disable @typescript-eslint/no-unused-vars */
 import React, { Children } from 'react'
 import img1 from "../assets/feature1.webp"
 import img2 from "../assets/feature3.webp"

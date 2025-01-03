@@ -1,4 +1,3 @@
-import React from 'react'
 import showcaseimg from "../assets/macbook.png"
 import ShowCasecard from './ShowCaseText';
 import { featureCard1 , featureCard2 , featureCard3 } from './ShowCaseCard';
